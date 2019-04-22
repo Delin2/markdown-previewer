@@ -1,3 +1,7 @@
+Markdown Previewer written in Javascript and used frontend framework React.
+
+There is a text editor in which people can edit and the text written inside would be converted to HTML.
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
