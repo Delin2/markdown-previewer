@@ -1,10 +1,6 @@
 import React, { Component } from 'react';
-import logo from './logo.svg';
 import './App.css';
 import { FormGroup, FormLabel, FormControl } from 'react-bootstrap' 
-// import FormGroup from 'react-bootstrap/lib/FormGroup'
-// import ControlLabel from 'react-bootstrap/lib/ControlLabel'
-// import FormControl from 'react-bootstrap/lib/FormControl'
 
 let marked = require("marked");
 
